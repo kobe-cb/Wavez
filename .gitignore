@@ -1,0 +1,13 @@
+bin/
+lib/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+main
+test
+
+header/rectangle.hpp.gch
+src/.rectangle.cpp.swp
+src/a.out
